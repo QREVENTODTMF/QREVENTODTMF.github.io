@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Not Available</title>
+
+<style>
+body{
+    margin:0;
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    background:white;
+    font-family:Arial,sans-serif;
+}
+
+img{
+    width:220px;
+}
+
+h1{
+    margin-top:20px;
+    font-size:32px;
+}
+
+p{
+    color:#666;
+    text-align:center;
+}
+</style>
+</head>
+
+<body>
+
+<img src="sapo.png" alt="Sapo">
+
+<h1>NOT AVAILABLE</h1>
+
+<p>
+Please wait until event day.<br>
+Do not scan your ticket before activation.
+</p>
+
+</body>
+</html>
